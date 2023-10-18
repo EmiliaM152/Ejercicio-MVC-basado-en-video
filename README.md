@@ -2,9 +2,10 @@
 
 Diagrama de la  Aplicación del diseño de ingeniería
 
-![image](https://github.com/EmiliaM152/Ejercicio-MVC-basado-en-video/assets/115099264/04d8c766-4377-4258-8311-86a83543ea35)
+![image](https://github.com/EmiliaM152/Ejercicio-MVC-basado-en-video/assets/115099264/d0d134c4-7957-470c-85c3-f6dae7582ef9)
 
-#Cliente Web (Navegador):# Los usuarios interactúan con la aplicación a través de un navegador web. El cliente web representa la capa de presentación.
+
+Cliente Web (Navegador): Los usuarios interactúan con la aplicación a través de un navegador web. El cliente web representa la capa de presentación.
 Capa de Presentación (Vista): Esta capa consiste en componentes de React que gestionan la interfaz de usuario y la interacción del usuario. 
 Estos componentes renderizan la vista y responden a eventos del usuario.
 Capa de Control (Controlador): Los controladores de React manejan la lógica de la aplicación, incluyendo la gestión de eventos, la navegación y 
